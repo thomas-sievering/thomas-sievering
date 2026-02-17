@@ -1,16 +1,26 @@
-# Thomas Sievering
+# Hi, I'm Thomas Sievering ??
 
-Building pragmatic CLI tools for agents and automation.
+?? **Switzerland** | ?? **Agent-first CLI builder** | ?? **Go + automation workflows**
 
-## Projects
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Google Chat](https://img.shields.io/badge/-Google_Chat-00AC47?style=flat-square&logo=googlechat&logoColor=white)
 
-- [jiractl](https://github.com/thomas-sievering/jiractl) - Jira Cloud CLI for read/triage/act workflows.
-- [gchatctl](https://github.com/thomas-sievering/gchatctl) - Google Chat CLI for agent-friendly messaging workflows.
+> Building small, practical tools for agent workflows: compact JSON, predictable commands, minimal setup.
+
+## Current Projects
+
+- ?? **[gchatctl](https://github.com/thomas-sievering/gchatctl)** - Google Chat CLI for reading and sending messages in automation flows.
+- ?? **[thomas-sievering](https://github.com/thomas-sievering/thomas-sievering)** - This profile README and public project index.
 
 ## Focus
 
-- Go-based single-binary tools
-- Compact JSON interfaces for automation
-- Low-friction auth and operational UX
+- Agent-friendly CLIs
+- Release-ready single binaries
+- Tight read-triage-act loops
 
-_Last updated: 2026-02-17._
+## Connect
+
+[![GitHub](https://img.shields.io/badge/-thomas--sievering-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thomas-sievering)
