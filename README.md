@@ -12,3 +12,5 @@ Building pragmatic CLI tools for agents and automation.
 - Go-based single-binary tools
 - Compact JSON interfaces for automation
 - Low-friction auth and operational UX
+
+_Last updated: 2026-02-17._
