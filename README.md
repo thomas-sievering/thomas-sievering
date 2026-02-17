@@ -1,4 +1,4 @@
-﻿# Hi, I'm Thomas Sievering 👋
+# Hi, I'm Thomas Sievering 👋
 
 📍 **Switzerland** | 🧠 **Frontend tech lead by day** | 🤖 **Agentic builder by choice**
 
