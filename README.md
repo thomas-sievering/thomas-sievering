@@ -1,16 +1,14 @@
-## Hi there 👋
+# Thomas Sievering
 
-<!--
-**thomas-sievering/thomas-sievering** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building pragmatic CLI tools for agents and automation.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [jiractl](https://github.com/thomas-sievering/jiractl) - Jira Cloud CLI for read/triage/act workflows.
+- [gchatctl](https://github.com/thomas-sievering/gchatctl) - Google Chat CLI for agent-friendly messaging workflows.
+
+## Focus
+
+- Go-based single-binary tools
+- Compact JSON interfaces for automation
+- Low-friction auth and operational UX
