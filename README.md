@@ -1,26 +1,27 @@
-# Hi, I'm Thomas Sievering ??
+﻿# Hi, I'm Thomas Sievering 👋
 
-?? **Switzerland** | ?? **Agent-first CLI builder** | ?? **Go + automation workflows**
+📍 **Switzerland** | 🧠 **Frontend tech lead by day** | 🤖 **Agentic builder by choice**
 
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Google Chat](https://img.shields.io/badge/-Google_Chat-00AC47?style=flat-square&logo=googlechat&logoColor=white)
+> I'm testing a thesis: one person with the right agents can ship like a team.
 
-> Building small, practical tools for agent workflows: compact JSON, predictable commands, minimal setup.
+I build open source CLI tools, automate as much of my workflow as possible, and share what actually works. I spend 500 EUR+/month on tokens, so this is not theory.
 
 ## Current Projects
 
-- ?? **[gchatctl](https://github.com/thomas-sievering/gchatctl)** - Google Chat CLI for reading and sending messages in automation flows.
-- ?? **[thomas-sievering](https://github.com/thomas-sievering/thomas-sievering)** - This profile README and public project index.
+- 💬 **[gchatctl](https://github.com/thomas-sievering/gchatctl)** - Google Chat CLI for agent-friendly read/send workflows.
+- 👤 **[thomas-sievering](https://github.com/thomas-sievering/thomas-sievering)** - Profile README and public project index.
 
-## Focus
+## Current Focus
 
-- Agent-friendly CLIs
-- Release-ready single binaries
-- Tight read-triage-act loops
+- Agent-friendly CLIs with compact JSON output
+- Real-world read-triage-act workflows (Jira, chat, automation)
+- Building in public and documenting tradeoffs
+
+## Side Quest
+
+Sometimes I read minds on stage.
 
 ## Connect
 
-[![GitHub](https://img.shields.io/badge/-thomas--sievering-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/thomas-sievering)
+- GitHub: [@thomas-sievering](https://github.com/thomas-sievering)
+- Website: [siever.ing](https://www.siever.ing) (work in progress)
